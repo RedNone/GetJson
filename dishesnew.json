@@ -2,12 +2,14 @@
 		{
 		"id": "1",
 		"name": "PizzaLite",
-		"cost": "1200$"
+		"cost": "1200$",
+		"pizze" : "20123123"
 		},
 		{
 		"id": "2",
 		"name": "PizzaSmile",
-		"cost": "1100$"
+		"cost": "1100$",
+		"pizze" : "20123asdsd123"
 		}
 
 
