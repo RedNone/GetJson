@@ -3,15 +3,13 @@
 	{
 		"id": "1",
 		"name": "PizzaLite",
-		"cost": "1200$",
-		
+		"cost": "1200$",		
 		"version": "1"
 	}, {
 		"id": "2",
 		"name": "PizzaSmile",
-		"cost": "1100$",
-		
-		"version": "1"
+		"cost": "1100$",		
+		"version": "2"
 	}
 
 
