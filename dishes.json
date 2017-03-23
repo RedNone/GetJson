@@ -4,13 +4,13 @@
 		"id": "1",
 		"name": "PizzaLite",
 		"cost": "1200$",
-		"pizze": "20123123",
+		
 		"version": "1"
 	}, {
 		"id": "2",
 		"name": "PizzaSmile",
 		"cost": "1100$",
-		"pizze": "20123123",
+		
 		"version": "1"
 	}
 
