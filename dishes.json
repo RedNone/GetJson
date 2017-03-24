@@ -13,20 +13,8 @@
 	},
 	{
 		"id": "3",
-		"name": "PizzaДевственностьШуры",
-		"cost": "бессценно",		
-		"version": "1"
-	},
-	{
-		"id": "4",
-		"name": "PizzaВасяУчиться",
-		"cost": "1100$",		
-		"version": "1"
-	},
-	{
-		"id": "5",
-		"name": "PizzaОтсосито",
-		"cost": "1100$",		
+		"name": "PizzaDEVSTVENNOST",
+		"cost": "100",		
 		"version": "1"
 	}
 	
