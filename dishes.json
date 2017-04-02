@@ -2,13 +2,33 @@
 
 	{
 		"id": "1",
-		"name": "PizzaLite",
+		"name": "Pizza Lite",
+		"type": "pizza",
 		"cost": "1200$",		
 		"version": "1"
 	}, {
 		"id": "2",
-		"name": "PizzaSmile",
+		"name": "Pizza Smile",
+		"type": "pizza",
 		"cost": "1100$",		
+		"version": "1"
+	},{
+		"id": "3",
+		"name": "Pizza Boston",
+		"type": "pizza",
+		"cost": "1100$",		
+		"version": "1"
+	},{
+		"id": "4",
+		"name": "Coca-Cola",
+		"type": "drinks",
+		"cost": "11$",		
+		"version": "1"
+	},{
+		"id": "5",
+		"name": "Fanta",
+		"type": "drinks",
+		"cost": "10$",		
 		"version": "1"
 	}
 
